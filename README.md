@@ -40,5 +40,5 @@ python chatbot.py
 
 ### License 
 
-* [MIT License]('LICENSE')
+* [MIT License](LICENSE)
 ### How to Contribute
